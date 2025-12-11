@@ -34,7 +34,7 @@ This repository contains all documentation, diagrams, screenshots, and links to 
 **URL:** [*Dashboard Repo*](https://github.com/Ken-Jacob/rideau-canal-dashboard/tree/main)
 
 ### Live Dashboard
-(http://rideau-canal-dashboard-app-e3aphjgcaba3fnbv.eastus2-01.azurewebsites.net/) 
+http://rideau-canal-dashboard-app-e3aphjgcaba3fnbv.eastus2-01.azurewebsites.net/
 
 ---
 
