@@ -27,11 +27,11 @@ This repository contains all documentation, diagrams, screenshots, and links to 
 
 ### Sensor Simulation Repository
 `rideau-canal-sensor-simulation`  
-**URL:** *ADD LINK* 
+**URL:** [*ADD LINK* ](https://github.com/Ken-Jacob/rideau-canal-sensor-simulation)
 
 ### Dashboard Repository
 `rideau-canal-dashboard`  
-**URL:** *ADD LINK*
+**URL:** [*ADD LINK*](https://github.com/Ken-Jacob/rideau-canal-dashboard/tree/main)
 
 ### Live Dashboard
 https://<your-app>.azurewebsites.net
